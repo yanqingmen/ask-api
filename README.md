@@ -1,4 +1,5 @@
 # ask-api
+#### [EN DOC](./README.en.md)
 
 #### 说明
 ask-api 是一个python框架，借助LLM(目前支持chatgpt-api)模型的代码理解能力，让你能够与你的python代码对话，提供包括但不限于如下的能力： 
@@ -15,6 +16,7 @@ ask-api 是一个python框架，借助LLM(目前支持chatgpt-api)模型的代�
 
 - [x] 基于openai的chatgpt-api，支持对python函数进行提问，了解函数的用途。
 - [X] 支持中文以及英文两种类型的prompt。
+- [ ] 通过pip安装。
 - [ ] 支持自定义的prompt。
 - [X] 支持通过自然语言命令来执行函数。
 - [ ] 支持其他LLM模型或api作为底层算法支持

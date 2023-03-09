@@ -1,4 +1,5 @@
 # ask-api
+#### [中文文档](./README.md)
 
 #### Description
 ask-api is a python framework, based on the llm models, which can help you to understand your python code by asking questions, and provide the following capabilities:
@@ -9,7 +10,6 @@ ask-api is a python framework, based on the llm models, which can help you to un
 
 #### Installation (to be improved)
 ```shell
-# pip install ask-api
 ```
 
 #### Development plan (in progress)
