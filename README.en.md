@@ -95,7 +95,7 @@ session = ask_func(download_data, message="please download this data for me", mo
 
 print(session.get_current())
 ```
-![invalid_message_image](./docs/images/en/invalid_message_example.png)
+![invalid_message_image](./docs/images/en/invalid_message.png)
 
 
 - handling task exception
@@ -115,6 +115,6 @@ else:
     result = wait_task(task)
     print(result)
 ```
-![task_exception_image](./docs/images/en/task_exception_example.png)
+![task_exception_image](./docs/images/en/error_task_example.png)
 
 - free dialogue with the function(TODO)
