@@ -23,7 +23,7 @@ ask-api 是一个python框架，借助LLM(目前支持chatgpt-api)模型的代�
 
 #### 示例(持续完善中)
 
-- 更多细节，请参考[中文示例](./examples/cn_askapi_example.ipynb)
+- 更多细节，请参考[中文示例](./examples/zh_askapi_example.ipynb)
 - 示例函数
 ```python
 # 示例函数，给定url，下载数据并保存至指定目录
