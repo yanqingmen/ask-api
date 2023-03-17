@@ -8,15 +8,16 @@ ask-api is a python framework, based on the llm models, which can help you to un
 - using natural language to describe the exceptions and errors.
 - Other free dialogue with the function.
 
-#### Installation (to be improved)
+#### Installation
 ```shell
+pip install ask-api
 ```
 
 #### Development plan (in progress)
 
 - [x] Based on openai's chatgpt-api, support asking questions about python functions to understand the function.
 - [X] Support Chinese and English prompts.
-- [ ] Install via pip.
+- [X] Install via pip.
 - [ ] Support custom prompts.
 - [X] Support executing functions by natural language commands.
 - [ ] Support other llm models or apis as the underlying algorithm support
